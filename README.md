@@ -55,4 +55,4 @@ When the `keylog on` command is entered, the keylogging client is automatically 
 When the `keylog off` command is entered, the client process is automatically terminated.
 
 ## Acknowledgements
-The key mappinng and keylogging idea was inspired by the [jarun/spy](https://github.com/jarun/spy) project.
+The key mapping and keylogging idea was inspired by the [jarun/spy](https://github.com/jarun/spy) project.
