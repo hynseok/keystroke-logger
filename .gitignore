@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.log
+tmp/
+*.cmd
+*.ko
+*.symvers
+*.order
+*.mod
+*.o
+*.mod.c
+log.txt
